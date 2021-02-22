@@ -117,7 +117,7 @@ img {
   filter: invert(1);
 }
 
-@media (min-width: 375px) and (max-width: 499px) {
+@media (min-width: 360px) and (max-width: 499px) {
   .container .cover,
   .bottom-banner {
     background-color: var(--Dark-Violet);
